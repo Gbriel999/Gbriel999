@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
-<h3 align="center">A passionate developer from Chile</h3>
+<h3 align="center">A beginner developer from Chile</h3>
 
 - 🔭 I’m currently working on <a href="https://tienda.watones.xyz/">Watones Network</a>
 
