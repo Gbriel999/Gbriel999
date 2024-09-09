@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel</h1>
 <h3 align="center">A passionate developer from Chile</h3>
 
-- 🔭 I’m currently working on [Watones Network](tienda.watones.xyz)
+- 🔭 I’m currently working on <a href="https://tienda.watones.xyz/">Watones Network</a>
 
 - 🌱 I’m currently learning **HTML CSS JS**
 
