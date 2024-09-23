@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gabriel</h1>
+<h2 align="center">Hi there 👋</h2>
 <h3 align="center">A beginner developer from Chile</h3>
 
 - 🔭 I’m currently working on <a href="https://tienda.watones.xyz/">Watones Network</a>
