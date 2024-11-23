@@ -17,6 +17,6 @@
 
 <h3 align="left">Current learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,postgresql,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,postgresql,unity,&theme=light)](https://skillicons.dev)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqueado&label=Profile%20views&color=0e75b6&style=flat" alt="paqueado" /> </p>
