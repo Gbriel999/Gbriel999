@@ -13,7 +13,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,linux,docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Current learning:</h3>
 
