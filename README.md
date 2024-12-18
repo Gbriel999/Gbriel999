@@ -12,10 +12,13 @@
 <a href="https://discord.gg/discord.gg/watones" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="discord.gg/watones" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js&theme=light)](https://skillicons.dev)
 
+<h3 align="left">Tools:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
 <h3 align="left">Current learning:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=postgresql,unity,&theme=light)](https://skillicons.dev)
