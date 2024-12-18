@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on <a href="https://tienda.watones.xyz/">Watones Network</a>
 
-- 🌱 I’m currently learning **HTML CSS JS**
+- 🌱 I’m currently learning **Cyber Security**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
