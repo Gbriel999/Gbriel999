@@ -1,8 +1,10 @@
 <h2 align="center">Hi there 🦦</h2>
 
-- 🔭 I’m currently working on <a href="https://tienda.watones.xyz/">Watones Network</a>
+- 🔭 I’m currently working on <a href="https://tienda.watones.xyz/">**Watones Network**</a>
 
 - 🌱 I’m currently learning **Cyber Security**
+
+- 🌱 Configuring Minecraft servers since 4 years ago.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
