@@ -14,13 +14,13 @@
 
 <h3 align="left">Languages:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,html,css,js&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,html,css,js,postgresql&theme=light)](https://skillicons.dev)
 
 <h3 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
 <h3 align="left">Current learning:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=postgresql,unity,&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,&theme=light)](https://skillicons.dev)
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqueado&label=Profile%20views&color=0e75b6&style=flat" alt="paqueado" /> </p>
