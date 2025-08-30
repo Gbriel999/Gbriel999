@@ -19,8 +19,8 @@
 <h3 align="left">Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
-<h3 align="left">Current learning:</h3>
+<h2 align="left">Current learning:</h3>
 
-<h2 align="left">Forensic Analytics 🔍</h2>
+<h3 align="left">Forensic Analytics 🔍</h3>
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqueado&label=Profile%20views&color=0e75b6&style=flat" alt="paqueado" /> </p>
