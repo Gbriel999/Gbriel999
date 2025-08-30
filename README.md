@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
 <h3 align="left">Current learning:</h3>
 
-[![My Skills](
-forensic analysis,&theme=light)](https://skillicons.dev)
+
+forensic analysis
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paqueado&label=Profile%20views&color=0e75b6&style=flat" alt="paqueado" /> </p>
