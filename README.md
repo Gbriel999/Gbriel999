@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Cyber Security**
 
-- ☁️ Configuring Minecraft servers since 5 years ago.
+- ☁️ Configuring Minecraft servers since 6 years ago.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
