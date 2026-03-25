@@ -21,5 +21,5 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,pr,ps,ae,&theme=light)](https://skillicons.dev)
 <h2 align="left">Current learning:</h3>
 
-<h3 align="left">Forensic Analytics 🔍</h3>
+<h3 align="left"></h3>
  
